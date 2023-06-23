@@ -18,7 +18,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I I'm a skilled software developer with experience in JavaScript and
+              I'm a skilled software developer with experience in JavaScript and
               Solidity, and expertise in 
               <i>
                 <b className="purple"> React , Node.js and Ethers.js. </b>.

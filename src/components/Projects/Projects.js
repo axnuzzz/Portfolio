@@ -36,7 +36,7 @@ function Projects() {
               imgPath={codex}
               isBlog={false}
               title="Code-X"
-              description="Your own personal AI to help you write code bu using Natural Language Processing to turn your prompts into code. Built using the OpenAI API and VanillaJS"
+              description="Your own personal AI to help you write code by using Natural Language Processing to turn your prompts into code. Built using the OpenAI API and VanillaJS"
               ghLink="https://github.com/axnuzzz/CodeX"
             />
           </Col>
